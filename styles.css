@@ -51,3 +51,10 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.btn-start{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  font-weight: bold;
+  color: blanchedalmond;
+}
